@@ -1,0 +1,9 @@
+# Kraken 主站和API
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krakenfx.com
+DOMAIN-SUFFIX,krakenstatus.com
+DOMAIN-SUFFIX,kraken.app
+
+#第三方
+DOMAIN-SUFFIX,intercom.io        # 客服支持
+DOMAIN-SUFFIX,sentry.io          # 错误上报
